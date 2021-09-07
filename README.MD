@@ -1,12 +1,8 @@
 # React Native Webview
 
----
-
 An app build for testing webview in React native.
 
 ## Table of Contents
-
----
 
 - [Technologies](#tecknologies)
 - [Setup](#Setup)
