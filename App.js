@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     // eslint-disable-next-line react-native/no-inline-styles
-    <WebView source={{uri: 'http://ldp.to/2AOgE'}} />
+    <WebView source={{uri: 'https://ldp.to/2AOgE'}} />
   );
 };
 
